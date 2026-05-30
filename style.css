@@ -269,3 +269,36 @@ footer{
     border-radius:10px;
     box-shadow:0 0 10px lightgray;
 }
+.progress-section{
+    max-width:600px;
+    margin:auto;
+}
+
+.bar{
+    width:100%;
+    background:#ddd;
+    height:20px;
+    border-radius:20px;
+    margin-bottom:20px;
+}
+
+.html{
+    width:90%;
+    height:20px;
+    background:green;
+    border-radius:20px;
+}
+
+.css{
+    width:80%;
+    height:20px;
+    background:blue;
+    border-radius:20px;
+}
+
+.js{
+    width:70%;
+    height:20px;
+    background:orange;
+    border-radius:20px;
+}
