@@ -232,3 +232,20 @@ footer{
     margin-bottom: 20px;
     border: 5px solid white;
 }
+.contact-form{
+    max-width: 500px;
+    margin: auto;
+}
+
+.contact-form input,
+.contact-form textarea{
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact-form textarea{
+    height: 120px;
+}
