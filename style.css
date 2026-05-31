@@ -315,3 +315,16 @@ footer{
     border-radius: 10px;
     box-shadow: 0 0 10px lightgray;
 }
+.experience{
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.experience-card{
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px lightgray;
+}
