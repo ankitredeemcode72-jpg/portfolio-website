@@ -302,3 +302,16 @@ footer{
     background:orange;
     border-radius:20px;
 }
+.education{
+    padding: 60px 20px;
+    text-align: center;
+    background-color: white;
+}
+
+.education-card{
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px lightgray;
+}
