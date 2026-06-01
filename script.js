@@ -5,3 +5,16 @@ document.getElementById("date").innerHTML =
 function darkMode() {
     document.body.classList.toggle("dark");
 }
+let count = localStorage.getItem("visits");
+
+if(count == null){
+    count = 1;
+}
+else{
+    count++;
+}
+
+localStorage.setItem("visits", count);
+
+document.getElementById("counter").innerHTML =
+"Visitors: " + count;
