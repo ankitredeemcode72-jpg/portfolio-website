@@ -338,3 +338,7 @@ footer{
     padding: 15px;
     border-radius: 50%;
 }
+.dark{
+    background:black;
+    color:white;
+}
